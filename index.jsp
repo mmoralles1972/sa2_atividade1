@@ -15,7 +15,7 @@ src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
  });
 </script>
 
-<title>Sistema de Controle de Vagas de Emprego</title>
+<title>Sistema de Controle de Vagas de Emprego 2022</title>
 <link rel="stylesheet" type="text/css" href="estilos.css">
 
 </head>
